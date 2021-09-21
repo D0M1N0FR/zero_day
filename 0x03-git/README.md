@@ -1,2 +1,0 @@
-Bonjour
-Holberton School
